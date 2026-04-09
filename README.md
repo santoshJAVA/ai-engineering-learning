@@ -59,4 +59,4 @@ Using LangGraph, I built a Researcher node and a Writer node. They pass a shared
 python multi_agent.py
 ```
 ## What's Next?
-I'm using my protected morning hours to combine these concepts into a functional Micro-SaaS. Follow my Twitter to watch the build-in-public journey!
+I'm using my protected morning hours to combine these concepts into a functional Micro-SaaS.
