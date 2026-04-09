@@ -6,7 +6,7 @@ I’ve been a full-stack developer (Ruby on Rails, JS, React) for 10 years. For 
 
 I was wrong. If you know how to build web apps, manage state, and call APIs, you already have 90% of the skills needed to build AI agents. This repo documents my "Aha!" moments—going from a basic API call to a multi-agent state machine.
 
-📖 Read the full story here: [https://medium.com/@santoshsharma8150/my-aha-moment-with-ai-as-a-10-year-traditional-swe-9669460437a2]
+📖 Read the full story here: https://medium.com/@santoshsharma8150/my-aha-moment-with-ai-as-a-10-year-traditional-swe-9669460437a2
 
 🛠 Tech Stack Used
 
