@@ -6,8 +6,7 @@ I’ve been a full-stack developer (Ruby on Rails, JS, React) for 10 years. For 
 
 I was wrong. If you know how to build web apps, manage state, and call APIs, you already have 90% of the skills needed to build AI agents. This repo documents my "Aha!" moments—going from a basic API call to a multi-agent state machine.
 
-📖 Read the full story here: [Link to your Medium Article]
-🐦 Follow the journey: [Link to your Twitter]
+📖 Read the full story here: [https://medium.com/@santoshsharma8150/my-aha-moment-with-ai-as-a-10-year-traditional-swe-9669460437a2]
 
 🛠 Tech Stack Used
 
@@ -25,7 +24,7 @@ LangGraph (For managing Agent state machines)
 
 1. Clone the repo:
 
-git clone [https://github.com/yourusername/ai-engineering-learning.git](https://github.com/yourusername/ai-engineering-learning.git)
+git clone [[https://github.com/santoshJAVA/ai-engineering-learning](https://github.com/santoshJAVA/ai-engineering-learning).git](https://github.com/santoshJAVA/ai-engineering-learning.git)
 cd ai-engineering-learning
 
 
