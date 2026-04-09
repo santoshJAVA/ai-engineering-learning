@@ -10,7 +10,7 @@ I was wrong. If you know how to build web apps, manage state, and call APIs, you
 https://medium.com/@santoshsharma8150/my-aha-moment-with-ai-as-a-10-year-traditional-swe-9669460437a2
 
 ## 🛠 Tech Stack Used
-- Python (The undisputed king of the AI ecosystem right now)
+- Python
 - OpenAI API (gpt-4o-mini is cheap and incredibly fast for testing)
 - Pydantic (For strict type-checking and structured JSON outputs)
 - ChromaDB (Local, open-source Vector Database for RAG)
