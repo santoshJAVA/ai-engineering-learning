@@ -24,20 +24,22 @@ LangGraph (For managing Agent state machines)
 
 1. Clone the repo:
 
-git clone [[https://github.com/santoshJAVA/ai-engineering-learning](https://github.com/santoshJAVA/ai-engineering-learning).git](https://github.com/santoshJAVA/ai-engineering-learning.git)
-cd ai-engineering-learning
+`git clone https://github.com/santoshJAVA/ai-engineering-learning.git`
+
+
+`cd ai-engineering-learning`
 
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 3. Set up your API Key:
 
 Create a file named .env in the root folder and add your OpenAI key:
 
-OPENAI_API_KEY=sk-your-actual-api-key-here
+`OPENAI_API_KEY=sk-your-actual-api-key-here`
 
 
 🗺 The Learning Path (The Scripts)
